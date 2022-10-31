@@ -24,9 +24,9 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     install_requires=[
-        'djangorestframework>=3.10.3',
-        'django-oauth-toolkit>=0.12.0',
-        'social-auth-app-django>=3.1.0',
+        'djangorestframework>=3.14.0',
+        'django-oauth-toolkit>=2.2.0',
+        'social-auth-app-django>=5.0.0',
     ],
     include_package_data=True,
     zip_safe=False,
